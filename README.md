@@ -1,11 +1,9 @@
-#CC101ComputingPortfolio
+# CC101ComputingPortfolio
 
 
-This repository contains my laboratory outputs and documentation for *CC 101 Introduction to 
+This repository contains my laboratory outputs and documentation for *CC 101 Introduction to Computing* at **Sorsogon State University – Bulan Campus**. 
 
-Computing* at **Sorsogon State University – Bulan Campus**. 
-
-##About Me
+## About Me
 
 - **Name:** Reyna Jean S. Todoc 
 
@@ -17,7 +15,7 @@ Computing* at **Sorsogon State University – Bulan Campus**.
 
 
 
-##Course Information 
+## Course Information 
 
 
 
@@ -33,7 +31,7 @@ Computing* at **Sorsogon State University – Bulan Campus**.
 
 
 
-##Portfolio Contents 
+## Portfolio Contents 
 
 
 
@@ -43,7 +41,7 @@ Computing* at **Sorsogon State University – Bulan Campus**.
 
 
 
-##Sample Pseudocode: Decimal to Binary 
+## Sample Pseudocode: Decimal to Binary 
 
 ``` 
 START
@@ -77,12 +75,12 @@ END
 ```
 
 
-##My Workspace 
+## My Workspace 
 ![My laboratory computer](images/my-pc.jpg)
 
 --- 
 
-*Last updated: 2026-10-20 
+*Last updated: 2026-10-20* 
 
 
 

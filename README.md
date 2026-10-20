@@ -18,17 +18,11 @@ This repository contains my laboratory outputs and documentation for *CC 101 Int
 ## Course Information 
 
 
-
 | Item | Details | 
-
 | --- | --- | 
-
 | Course | CC 101 Introduction to Computing | 
-
-| Instructor | John Mark D. Gabrentina | 
-
+| Instructor | Jhon Mark Ganbrentina | 
 | Academic Year | 2026–2027 | 
-
 
 
 ## Portfolio Contents 

@@ -17,8 +17,6 @@ This repository contains my laboratory outputs and documentation for *CC 101 Int
 
 ##Course Information 
 
-
-
 | Item | Details | 
 
 | --- | --- | 

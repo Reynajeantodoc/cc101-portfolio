@@ -1,9 +1,9 @@
-# CC101ComputingPortfolio
+#CC 102 Computing Portfolio
 
 
 This repository contains my laboratory outputs and documentation for *CC 101 Introduction to Computing* at **Sorsogon State University – Bulan Campus**. 
 
-## About Me
+##About Me
 
 - **Name:** Reyna Jean S. Todoc 
 
@@ -15,14 +15,20 @@ This repository contains my laboratory outputs and documentation for *CC 101 Int
 
 
 
-## Course Information 
+##Course Information 
+
 
 
 | Item | Details | 
+
 | --- | --- | 
+
 | Course | CC 101 Introduction to Computing | 
-| Instructor | Jhon Mark Ganbrentina | 
+
+| Instructor | John Mark D. Gabrentina | 
+
 | Academic Year | 2026–2027 | 
+
 
 
 ## Portfolio Contents 
@@ -38,6 +44,7 @@ This repository contains my laboratory outputs and documentation for *CC 101 Int
 ## Sample Pseudocode: Decimal to Binary 
 
 ``` 
+
 START
       INPUT decimalNum
       SET binaryResult =””
@@ -66,15 +73,27 @@ THEN
       DISPLAY binaryResult
 
 END
-```
+
 
 
 ## My Workspace 
-![My laboratory computer](images/my-pc.jpg)
+[My laboratory computer](images/my-pc.jpg)
 
 --- 
 
 *Last updated: 2026-10-20* 
 
+*Last updated: 2026-10-20 
 
 
+##Programming Foundations
+
+|Program | Description|
+|---|---|
+|programming-foundation/my_profile.py| Displays my profile using variables|
+|programming-foundation/grade_calculation.py| Computes the midterm rating|
+|programming-foundation/even_odd.py| Tells whether a number is even or odd| 
+|programming-foundation/jeepney_fare.py| Computes the jeepney fare with discount|
+|programming-foundation/sum_to_n.py| Sums the numbers from 1 to n|
+|programming-foundation/savings_tracker.py| Totals daily savings until 0 entered|
+|programming-foundation/buggy_average.py| Debugged quiz-average program|

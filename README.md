@@ -41,7 +41,7 @@ This repository contains my laboratory outputs and documentation for *CC 101 Int
 
 
 
-## Sample Pseudocode: Decimal to Binary 
+## Sample Pseudocode: Decimal to Binary
 
 ``` 
 
@@ -52,7 +52,6 @@ START
         IF decimalNum == 0
 
 THEN
-
 	SET binaryResult = “0”
 
       ELSE
@@ -75,16 +74,13 @@ THEN
 END
 
 
-
+``` 
 ## My Workspace 
 [My laboratory computer](images/my-pc.jpg)
 
 --- 
 
 *Last updated: 2026-10-20* 
-
-*Last updated: 2026-10-20 
-
 
 ##Programming Foundations
 
@@ -97,3 +93,6 @@ END
 |programming-foundation/sum_to_n.py| Sums the numbers from 1 to n|
 |programming-foundation/savings_tracker.py| Totals daily savings until 0 entered|
 |programming-foundation/buggy_average.py| Debugged quiz-average program|
+
+
+*Last updated: 2026-11-13* 
